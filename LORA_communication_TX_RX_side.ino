@@ -1,3 +1,11 @@
+/*
+Electronics Studio
+@file LORA_communication_TX_RX_side
+@date  16-10-2024
+@url https:https://github.com/electronicsstudio
+*/
+
+
 #include <SoftwareSerial.h>   
 
 SoftwareSerial mySerial(11, 10); // RX, TX
